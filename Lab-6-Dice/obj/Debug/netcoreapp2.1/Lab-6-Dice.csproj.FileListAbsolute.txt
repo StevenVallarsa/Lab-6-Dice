@@ -1,0 +1,11 @@
+/Users/Steve/Projects/Lab-6-Dice/Lab-6-Dice/bin/Debug/netcoreapp2.1/Lab-6-Dice.deps.json
+/Users/Steve/Projects/Lab-6-Dice/Lab-6-Dice/bin/Debug/netcoreapp2.1/Lab-6-Dice.runtimeconfig.json
+/Users/Steve/Projects/Lab-6-Dice/Lab-6-Dice/bin/Debug/netcoreapp2.1/Lab-6-Dice.runtimeconfig.dev.json
+/Users/Steve/Projects/Lab-6-Dice/Lab-6-Dice/bin/Debug/netcoreapp2.1/Lab-6-Dice.dll
+/Users/Steve/Projects/Lab-6-Dice/Lab-6-Dice/bin/Debug/netcoreapp2.1/Lab-6-Dice.pdb
+/Users/Steve/Projects/Lab-6-Dice/Lab-6-Dice/obj/Debug/netcoreapp2.1/Lab-6-Dice.csprojAssemblyReference.cache
+/Users/Steve/Projects/Lab-6-Dice/Lab-6-Dice/obj/Debug/netcoreapp2.1/Lab-6-Dice.csproj.CoreCompileInputs.cache
+/Users/Steve/Projects/Lab-6-Dice/Lab-6-Dice/obj/Debug/netcoreapp2.1/Lab-6-Dice.AssemblyInfoInputs.cache
+/Users/Steve/Projects/Lab-6-Dice/Lab-6-Dice/obj/Debug/netcoreapp2.1/Lab-6-Dice.AssemblyInfo.cs
+/Users/Steve/Projects/Lab-6-Dice/Lab-6-Dice/obj/Debug/netcoreapp2.1/Lab-6-Dice.dll
+/Users/Steve/Projects/Lab-6-Dice/Lab-6-Dice/obj/Debug/netcoreapp2.1/Lab-6-Dice.pdb
