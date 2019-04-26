@@ -95,6 +95,7 @@ namespace Lab_6_Dice
                 return false;
             }
 
+            Console.WriteLine("Oops. That's not right.");
             bool recursiveResult = ValidateEntry();
             return recursiveResult;
 
